@@ -1,24 +1,7 @@
-# page
+# Usuario de prueba
+- mail: usuario@gmail.com
+- pass: 123456789
 
-## Project setup
-```
-npm install
-```
+Para hacer login, ir a la siguiente dirección https://qbar-ead98.web.app/api/login
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Luego de estar loggeado, ir a las siguiente dirección https://qbar-ead98.web.app/admin/mesas
